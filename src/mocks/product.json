@@ -1,0 +1,492 @@
+{
+  "products": [
+    {
+      "id": 100001,
+      "type": "Fundas",
+      "name": "Retro flowers",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624716/100-001.png",
+      "description": "Funda con diseño de flores retro, ideal para darle un toque vintage a tu dispositivo."
+    },
+    {
+      "id": 100002,
+      "type": "Fundas",
+      "name": "Green flowers",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624739/100-002.png",
+      "description": "Funda con un vibrante diseño de flores verdes, perfecta para los amantes de la naturaleza."
+    },
+    {
+      "id": 100003,
+      "type": "Fundas",
+      "name": "Blue hearts",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624716/100-003.png",
+      "description": "Funda decorada con corazones azules, ideal para quienes quieren expresar su amor."
+    },
+    {
+      "id": 100004,
+      "type": "Fundas",
+      "name": "Black and white flower",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624755/100-004.png",
+      "description": "Funda en blanco y negro con un elegante diseño floral, una opción clásica y sofisticada."
+    },
+    {
+      "id": 100005,
+      "type": "Fundas",
+      "name": "Flowers Vintage",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624751/100-005.png",
+      "description": "Funda con un hermoso diseño de flores vintage, perfecta para los nostálgicos."
+    },
+    {
+      "id": 100006,
+      "type": "Fundas",
+      "name": "Corazones",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624781/100-006.png",
+      "description": "Funda con un patrón de corazones, ideal para mostrar tu lado romántico."
+    },
+    {
+      "id": 100007,
+      "type": "Fundas",
+      "name": "Mariposas",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624751/100-007.png",
+      "description": "Funda adornada con mariposas coloridas, perfecta para quienes aman la belleza de la naturaleza."
+    },
+    {
+      "id": 100008,
+      "type": "Fundas",
+      "name": "Noche Estrellada",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624784/100-008.png",
+      "description": "Funda inspirada en una noche estrellada, perfecta para los soñadores."
+    },
+    {
+      "id": 100009,
+      "type": "Fundas",
+      "name": "Cow",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624721/100-009.png",
+      "description": "Funda con un divertido diseño de vaca, ideal para quienes buscan un estilo único."
+    },
+    {
+      "id": 100010,
+      "type": "Fundas",
+      "name": "Self Love",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624780/100-010.png",
+      "description": "Funda con un mensaje positivo de amor propio, perfecta para inspirarte cada día."
+    },
+    {
+      "id": 100011,
+      "type": "Fundas",
+      "name": "It's an art",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624734/100-011.png",
+      "description": "Funda con un diseño artístico, ideal para los amantes del arte."
+    },
+    {
+      "id": 100012,
+      "type": "Fundas",
+      "name": "You Got This Girl",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624720/100-012.png",
+      "description": "Funda motivacional que empodera a las chicas, ideal para quienes quieren recordarse su fuerza."
+    },
+    {
+      "id": 100013,
+      "type": "Fundas",
+      "name": "You Got This Pink",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624725/100-013.png",
+      "description": "Funda rosa con un mensaje positivo, perfecta para quienes buscan inspiración."
+    },
+    {
+      "id": 100014,
+      "type": "Fundas",
+      "name": "Pretty Girl",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624707/100-014.png",
+      "description": "Funda que celebra la belleza y la confianza, ideal para cualquier chica."
+    },
+    {
+      "id": 100015,
+      "type": "Fundas",
+      "name": "Romanticize",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624719/100-015.png",
+      "description": "Funda que invita a romantizar la vida, perfecta para quienes buscan inspiración en lo cotidiano."
+    },
+    {
+      "id": 100016,
+      "type": "Fundas",
+      "name": "One day at a time",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624738/100-016.png",
+      "description": "Funda que recuerda la importancia de vivir el presente, ideal para los que buscan mindfulness."
+    },
+    {
+      "id": 100017,
+      "type": "Fundas",
+      "name": "Marmol black",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624773/100-017.png",
+      "description": "Funda con un elegante diseño de mármol negro, perfecta para un look sofisticado."
+    },
+    {
+      "id": 100018,
+      "type": "Fundas",
+      "name": "Marmol colorido",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624778/100-018.png",
+      "description": "Funda con un vibrante diseño de mármol colorido, ideal para quienes buscan un toque alegre."
+    },
+    {
+      "id": 100019,
+      "type": "Fundas",
+      "name": "Abstract black",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624781/100-019.png",
+      "description": "Funda con un diseño abstracto en negro, perfecta para un estilo moderno."
+    },
+    {
+      "id": 100020,
+      "type": "Fundas",
+      "name": "Marmol blue",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624764/100-020.png",
+      "description": "Funda con un atractivo diseño de mármol azul, ideal para quienes buscan originalidad."
+    },
+    {
+      "id": 100021,
+      "type": "Fundas",
+      "name": "Marmol pink",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624776/100-021.png",
+      "description": "Funda con un diseño de mármol rosa, perfecta para quienes buscan un estilo femenino."
+    },
+    {
+      "id": 100022,
+      "type": "Fundas",
+      "name": "Abstract green",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624777/100-022.png",
+      "description": "Funda con un diseño abstracto en verde, ideal para quienes desean un look fresco."
+    },
+    {
+      "id": 100023,
+      "type": "Fundas",
+      "name": "Porsche 911",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624774/100-023.png",
+      "description": "Funda con un diseño que rinde homenaje al Porsche 911, ideal para los amantes de los autos."
+    },
+    {
+      "id": 100024,
+      "type": "Fundas",
+      "name": "Tigres",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624762/100-024.png",
+      "description": "Funda con un atrevido diseño de tigres, perfecta para quienes buscan un estilo audaz."
+    },
+    {
+      "id": 100025,
+      "type": "Fundas",
+      "name": "Floral",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624726/100-025.png",
+      "description": "Funda con un encantador diseño floral, ideal para quienes aprecian la belleza de las flores."
+    },
+    {
+      "id": 100026,
+      "type": "Fundas",
+      "name": "Estampado Acuático",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624711/100-026.png",
+      "description": "Funda con un diseño acuático, ideal para quienes aman el océano y la naturaleza."
+    },
+    {
+      "id": 100027,
+      "type": "Fundas",
+      "name": "Strawberry",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624712/100-027.png",
+      "description": "Funda con un dulce diseño de fresas, perfecta para los amantes de las frutas."
+    },
+    {
+      "id": 100028,
+      "type": "Fundas",
+      "name": "Camuflaje",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624754/100-028.png",
+      "description": "Funda con un diseño de camuflaje, ideal para quienes buscan un estilo único y atrevido."
+    },
+    {
+      "id": 100029,
+      "type": "Fundas",
+      "name": "Cactus",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624706/100-029.png",
+      "description": "Funda con un fresco diseño de cactus, perfecta para los amantes de la flora desértica."
+    },
+    {
+      "id": 100030,
+      "type": "Fundas",
+      "name": "Gato Negro",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624705/100-030.png",
+      "description": "Funda con un encantador diseño de gato negro, ideal para los amantes de los felinos."
+    },
+    {
+      "id": 100031,
+      "type": "Fundas",
+      "name": "Geometría Colorida",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624708/100-031.png",
+      "description": "Funda con un diseño geométrico vibrante, ideal para quienes aman el arte moderno."
+    },
+    {
+      "id": 100032,
+      "type": "Fundas",
+      "name": "Dinosaurios",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624710/100-032.png",
+      "description": "Funda divertida con un diseño de dinosaurios, perfecta para los amantes de la prehistoria."
+    },
+    {
+      "id": 100033,
+      "type": "Fundas",
+      "name": "Panda",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624713/100-033.png",
+      "description": "Funda con un adorable diseño de panda, ideal para quienes aman la fauna."
+    },
+    {
+      "id": 100034,
+      "type": "Fundas",
+      "name": "Espacio",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624714/100-034.png",
+      "description": "Funda con un diseño espacial, perfecta para los soñadores y amantes de la astronomía."
+    },
+    {
+      "id": 100035,
+      "type": "Fundas",
+      "name": "Cerveza",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624715/100-035.png",
+      "description": "Funda con un divertido diseño de cerveza, ideal para los amantes de la fiesta."
+    },
+    {
+      "id": 100036,
+      "type": "Fundas",
+      "name": "Círculos",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624716/100-036.png",
+      "description": "Funda con un elegante diseño de círculos, ideal para un estilo moderno y sofisticado."
+    },
+    {
+      "id": 100037,
+      "type": "Fundas",
+      "name": "Cielo Azul",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624717/100-037.png",
+      "description": "Funda con un hermoso diseño que evoca el cielo azul, ideal para los que aman el aire libre."
+    },
+    {
+      "id": 100038,
+      "type": "Fundas",
+      "name": "Auroras",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624718/100-038.png",
+      "description": "Funda con un impresionante diseño de auroras boreales, perfecta para quienes aprecian la belleza natural."
+    },
+    {
+      "id": 100039,
+      "type": "Fundas",
+      "name": "Música",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624719/100-039.png",
+      "description": "Funda que celebra el amor por la música, ideal para los melómanos."
+    },
+    {
+      "id": 100040,
+      "type": "Fundas",
+      "name": "Playas",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624720/100-040.png",
+      "description": "Funda con un diseño de playas tropicales, perfecta para los que sueñan con vacaciones."
+    },
+    {
+      "id": 100041,
+      "type": "Fundas",
+      "name": "Luz de Luna",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624721/100-041.png",
+      "description": "Funda que evoca la tranquilidad de la luz de luna, ideal para los románticos."
+    },
+    {
+      "id": 100042,
+      "type": "Fundas",
+      "name": "Fuego",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624722/100-042.png",
+      "description": "Funda con un diseño de llamas ardientes, perfecta para los apasionados."
+    },
+    {
+      "id": 100043,
+      "type": "Fundas",
+      "name": "Futbol",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624723/100-043.png",
+      "description": "Funda que celebra el fútbol, ideal para los aficionados al deporte."
+    },
+    {
+      "id": 100044,
+      "type": "Fundas",
+      "name": "Café",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624724/100-044.png",
+      "description": "Funda con un diseño que celebra el café, perfecta para los amantes de esta bebida."
+    },
+    {
+      "id": 100045,
+      "type": "Fundas",
+      "name": "Atardecer",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624725/100-045.png",
+      "description": "Funda que captura la belleza de un atardecer, ideal para los soñadores."
+    },
+    {
+      "id": 100046,
+      "type": "Fundas",
+      "name": "Frutas Tropicales",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624726/100-046.png",
+      "description": "Funda con un fresco diseño de frutas tropicales, ideal para los amantes de la naturaleza."
+    },
+    {
+      "id": 100047,
+      "type": "Fundas",
+      "name": "Arte Abstracto",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624727/100-047.png",
+      "description": "Funda con un diseño abstracto y colorido, perfecta para los aficionados al arte contemporáneo."
+    },
+    {
+      "id": 100048,
+      "type": "Fundas",
+      "name": "Cultura Japonesa",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624728/100-048.png",
+      "description": "Funda que rinde homenaje a la cultura japonesa, ideal para los amantes de la tradición."
+    },
+    {
+      "id": 100049,
+      "type": "Fundas",
+      "name": "Monstruos",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624729/100-049.png",
+      "description": "Funda divertida con un diseño de monstruos, perfecta para los más pequeños y sus corazones aventureros."
+    },
+    {
+      "id": 100050,
+      "type": "Fundas",
+      "name": "Bosque Encantado",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624730/100-050.png",
+      "description": "Funda que captura la magia de un bosque encantado, ideal para los amantes de los cuentos de hadas."
+    },
+    {
+      "id": 100051,
+      "type": "Fundas",
+      "name": "Estrellas Brillantes",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624731/100-051.png",
+      "description": "Funda con un diseño de estrellas brillantes, perfecta para los soñadores que miran al cielo."
+    },
+    {
+      "id": 100052,
+      "type": "Fundas",
+      "name": "Cielo Nocturno",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624732/100-052.png",
+      "description": "Funda que evoca la serenidad del cielo nocturno, ideal para quienes aman la tranquilidad."
+    },
+    {
+      "id": 100053,
+      "type": "Fundas",
+      "name": "Mariposas",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624733/100-053.png",
+      "description": "Funda con un hermoso diseño de mariposas, perfecta para los que disfrutan de la belleza de la naturaleza."
+    },
+    {
+      "id": 100054,
+      "type": "Fundas",
+      "name": "Fantasía",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624734/100-054.png",
+      "description": "Funda que celebra el mundo de la fantasía, ideal para quienes sueñan en grande."
+    },
+    {
+      "id": 100055,
+      "type": "Fundas",
+      "name": "Callejones",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624735/100-055.png",
+      "description": "Funda que evoca la vida en los callejones, ideal para los amantes de lo urbano."
+    },
+    {
+      "id": 100056,
+      "type": "Fundas",
+      "name": "Bailarinas",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624736/100-056.png",
+      "description": "Funda con un encantador diseño de bailarinas, perfecta para los aficionados al baile."
+    },
+    {
+      "id": 100057,
+      "type": "Fundas",
+      "name": "Cuentos de Hadas",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624737/100-057.png",
+      "description": "Funda inspirada en los cuentos de hadas, ideal para los soñadores y amantes de la magia."
+    },
+    {
+      "id": 100058,
+      "type": "Fundas",
+      "name": "Noche de Estrellas",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624738/100-058.png",
+      "description": "Funda que captura la belleza de una noche estrellada, perfecta para los que buscan inspiración."
+    },
+    {
+      "id": 100059,
+      "type": "Fundas",
+      "name": "Rostros",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624739/100-059.png",
+      "description": "Funda con un diseño artístico de rostros, ideal para los amantes de la expresión creativa."
+    },
+    {
+      "id": 100060,
+      "type": "Fundas",
+      "name": "Siluetas",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624740/100-060.png",
+      "description": "Funda con un diseño de siluetas, perfecta para quienes aprecian la simplicidad y la elegancia."
+    },
+    {
+      "id": 100061,
+      "type": "Fundas",
+      "name": "Cactus Colorido",
+      "price": 220.0,
+      "img": "https://res.cloudinary.com/drdefvojb/image/upload/v1723624741/100-061.png",
+      "description": "Funda con un vibrante diseño de cactus, ideal para los amantes del desierto y la naturaleza."
+    }
+  ]
+}
